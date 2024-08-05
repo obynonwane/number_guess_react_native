@@ -20,11 +20,10 @@ export default StartGameScreen;
 
 styles = StyleSheet.create({
   inputContainer: {
-    alignItems: "center",
     marginTop: 100, // push the view screen away from the top of the device
     marginHorizontal: 24, //give space on the left & right
     padding: 16,
-    backgroundColor: "#72063c",
+    backgroundColor: "#4e0329",
     borderRadius: 8,
     elevation: 4, //background shadow on android
     shadowColor: "black", //shadow color for ios
