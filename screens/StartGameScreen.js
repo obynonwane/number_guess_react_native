@@ -31,7 +31,7 @@ const styles = StyleSheet.create({
     marginTop: 100, // push the view screen away from the top of the device
     marginHorizontal: 24, //give space on the left & right
     padding: 16,
-    backgroundColor: "#4e0329",
+    backgroundColor: "#3b021f",
     borderRadius: 8,
     elevation: 4, //background shadow on android
     shadowColor: "black", //shadow color for ios
